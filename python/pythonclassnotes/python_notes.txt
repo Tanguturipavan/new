@@ -1,0 +1,313 @@
+
+		=====================================================================
+				Real Time Applications Developed by Using PYTHON Programming
+		=====================================================================			
+=>By using python Programming Lang and Some Combined technolgies , we develop the following Real Time Applications.
+
+		1. Development of Web Applications (Web Sites )
+					a) Java Programming Lang<----------Tech:  Servlets, JSP, Hibernate,Spring, Spring Boot, Spring with									Micro Services...etc
+						(Sun Micro System INC USA--->Oracle Corp)
+					b) C#.net Programming Lang<------Tech: ASP.net, ASP with Micro Services.
+						(Micro Soft)
+					c) PYTHON Programming Language<------Tech: Django, Flask,Bottle,Pyramid
+								Python----Says--"Less Lines of Code and Gives more Meaning"
+											Bcoz of Rich set of MODULES are Present in PYTHON
+								Learning Python=Learning About Modules
+
+		2. Development of Gaming  Applications.
+		3. Development of Aritificial Intelligence(AI) Applications
+							a) Machine Learning (ML)
+							b) Deep Learning (DL)
+
+		4. Development of Image Processing Applications.
+		5. Development of Audio and Video Based Applications
+		6. Development of Web Scrapping / Web Harvesting
+		7. Development of Bussiness Applications (Apps)
+		8. Development of Scientiifc Applications 
+		9. Development of Software Development (Project Development)
+		10. Development of OS Installers
+		11. Development of Languages (Spark, Scala)
+		12. Development of DeskTop GUI Applications
+		13. Development of Data Analysis and Data Analytics
+		14. Development of Automation of Testing
+		15. Development of Complex Math Operations
+		16. Devevelopment of Console Based Applications (Non-GUI)
+		17. Development of Animation Applications
+		18. Development of CAD and CAM Based Applications 
+		19. Development of Computer Vision
+		20. Python Used in Education System
+
+
+
+
+        =====================================================================
+					History of Python
+		=====================================================================
+=>The Python Programming Language Concevied (Foundation Stone Laid down) in the Year 1980
+=>The Python Programming Language Implemented(Bring into an action) in the Year 1989.
+=>The Python Programming Language Offcially Released in the Year 1991 Feb.
+=>The Python Programming Language Developed by "Guido Van Rossum" (Father OR Author of Python).
+=>The Python Programming Language Developed at CWI (Centrum Wiskunde Informatica) Reasearch Institute in the Country 
+    Nether Landas.
+=>The Python Programming Language Maintained and Managed by a Non-Commercial Organization Called PSF (Python 
+   Software Foundation).
+=>The official website of PSF is www.python.org.
+		=====================================================================
+					Version of Python--Used in MNCs
+		=====================================================================
+=>Python Programming Language Contains 3 Types of Versions. They are
+
+	1. Python 1.x --->Here 1 Is called Major Version and X Represents 0 1 2 3,4,....etc and these called Minor Version
+		Python 1.x was already Outdated
+		Python 2.x does not Support Backward Compatability with Python 1.x
+	2. Python 2.x---->Here 2 Is called Major Version and X Represents 0 1 2 3,4,5,6,7....etc and these called Minor Version
+			
+		Python 2.x was already Outdated
+		Python 3.x does not Support Backward Compatability with Python 2.x.
+	3. Python 3.x----Here 3 Is called Major Version and X Represents 0 1 2 3,4,5,6,7,8,9,10,11,12,13 and these called Minor 
+	                                                                                                                                                Version
+				 Here Python 3.x is called Current Version
+					 Python 3.8,3.9,3.10---Industry  Current Version  Used for Developing Real Time Applications (Secured)
+					 Python 3.11,3.12----Are the Latest Versions (BugFix Stage)
+					 Python 3.13-------Pre-Release / Future Version
+		=====================================================================
+					DownLoading and Installation Process of Python
+		=====================================================================
+=>Goto  www.python.org
+=>Choose DownLoads----> Python 3.12.2 (click)
+=>Ensure that Python 3.12.2 downloaded
+=>Double Click  on Python 3.12.2---ensure u Must set the Path--->Choose Install Now
+===================================================================================================
+            ============================================================
+						Features of Python
+			============================================================
+=>Features of a Language are Nothing but Services OR Faclilities Provided by Language Developers in the Languages, which are used by Language Programmers in development of Real Time Applications.
+=>In Python Programming, we have 11 Features. They are
+
+			1. Simple
+			2. Platform Indepedent Langauge
+			3. Dynamically Typed
+			4. Interpreted 
+			5. High Level
+			6. Robust (Strong)
+			7. Freeware and Open Source
+			8. Extensible
+			9. Embedded
+			10. Both Functional and Object Oriented Programming Lang
+			11. Supports Third Party APIs Such as numpy, pandas, matplotlib, scipy, scikit, nltk,keras,scilearn..etc
+=========================================================================================================
+Python & Full Stack Python @ 4:00 PM (IST) By Mr. K.V.Rao
+ Day-1 https://youtu.be/GQmtAVZ4DkM
+ Day-2 https://youtu.be/mj-CP4yZM74
+ Day-3 https://youtu.be/5uMVFLx50w0
+Day-4 https://youtu.be/7J4UcwMnLec
+Day-5 https://youtu.be/OBUeqhOo2t4
+
+
+Full Stack Python @ 4.00 Pm | by Mr. K V Rao | from 13th March 2024 - Notes
+
+https://drive.google.com/drive/folders/1oHOpC9RCoIl3g0EO_ZOLneaX_oeOfM_V?usp=sharing
+________________________________________________________________________________________________________________________________________
+----------------------------------------------------------------------------------------------------------------------------------------
+            ==============================================================
+							1. Simple
+			==============================================================
+=>Python Programming is of one the SIMPLE Programming Language bcoz of THREE Important Technical Factors.
+**********************************************************************************************************************************************
+Factor-1:	      Python Programming Provides "Rich Set of MODULES"
+--------------      So that Python Programmer can Re-Use the Pre-Defined Code which is Present in MODULES without writing Our 
+                      Own Source Code
+Examples: calendar,random,math,cmath,os,oracledb,mysql.connector...etc
+----------------
+Definition of Module
+-------------------------------
+A Module is a Collection of Functions, Data Members and Class names
+**********************************************************************************************************************************************
+Factor-2:    Python Programming Provides In-Built Facility Called Garbage Collector.
+-------------    So Garbage Collector Collects Un-Used Memory Space and Improves the perfomance of Python Based Applications.
+----------------------------------------------
+Definition of Garbage Collector
+----------------------------------------------
+=>A  Garbage Collector is one of Python Background Program running Behind of Regular Python Program and whose Role is that To Collect Un-used memory Space and Improves the Performance of Python Based Applications.
+=>Hence  Garbage Collector takes care about automatic Memory Management.
+**********************************************************************************************************************************************
+Factor-3:			
+-----------------
+=>The Python Programming Provides User-Friendly Syntaxes and Makes to Programmer to write Error-Free Programs in Limited 
+    span of Time.
+**********************************************************************************************************************************************
+**********************************************************************************************************************************************
+                ==========================================================
+						2. Platform Indepedent Langauge--Most Imp
+				==========================================================
+=>A platform is Nothing but Type of OS Being Used to Run our Application / Project / Program.
+---------------------------------------------------------
+Definition of OS(Operating System):
+---------------------------------------------------------
+=>OS is a Software and It acts as Resource Allocation Manager and Resource De-Allocation Manager
+				(OR)
+=>OS is one of Interface Between Program and Computer Hardware( Memory , Processor , I/O Devices..etc)
+------------------------------------------------------------
+=>In IT, we have Two Types of Programming Languages. They are
+
+			1. Platform Dependent Languages
+			2. Platform Inependent Languages
+--------------------------------------------------------------------------
+1. Platform Dependent Lang
+--------------------------------------------------------------------------
+=>In Platform Dependent Lang, Data Types differes from One OS to Another OS and and These Lang are PLATFORM DEPENDENT.
+Example:   C,C++....etc
+
+--------------------------------------------------------------------------
+2. Platform Independent Lang
+--------------------------------------------------------------------------
+=>In Platform Independent Lang, Data Types memory space remains Same on All Types OSes.
+=>In Effective Platform Independent Lang, all types of Values will store in the form of OBJECTs and they can store Un-Limited amount of data
+=>Hence java Object contains Size Restricted where Python Objects contains Un-limited Size and unlimited values can store.
+
+NOTE: IN PYTHON ALL VALUES ARE STOREd IN THE OF OBJECTS.
+Examples:   Java, Python.
+--------------------------------------------------------------------------
+                ========================================================
+						3. Dynamically Typed
+				========================================================
+=>In IT , we have Two Types of Programming Languages. They are
+
+				1. Static Typed Programming Language.
+				2. Dynamically Typed Programming Language.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Static Typed Programming Language.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+=>In  Static Typed Programming Language, It mandatory for the programmer To Specify Variable Declaration (Data Type+ Identifiers) Otherwise we get Compile Time Errors
+--------------
+Example Task:  Compute Sum of Two Numbers in C, C++, Java
+--------------------
+			int a=10;  // Variable Declaration
+			int b=20; // Variable Declaration
+			int c=a+b //Variable Declaration
+				OR
+			int a=10,b=20;  // Variable Declaration
+			int c=a+b       //Variable Declaration
+=>The Problem of Static Typed Programming Languages is that The Programmer May not be Knowing The Data Type of Value 
+   accurately.
+=>In Static Typed Programming Languages , It stored Perticular Type Value Only But never allows to store Other Types of Values.
+-------------------------------
+Examples Languages: C, C++, Java, C#.net........etc
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. Dynamically Typed Programming Language.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+=>In Dynamically Typed Programming Language, Programmers Need not write Variable Declration. Internally Programming Language Execution Environment will data type of value, which is entered By Programmer.
+=>The Advantage of Dynamically Typed Programming Languages, is that
+					i) Programmer Need not write Data Type
+					ii) Depends type of Value, Execution Environment will assign the Data type
+Examples:
+-------------------
+>>> a=10
+>>> b=20
+>>> c=a+b
+>>> print(a,type(a))---------------10 <class 'int'>
+>>> print(b,type(b))---------------20 <class 'int'>
+>>> print(c,type(c))---------------30 <class 'int'>
+--------------------------
+>>> a=100
+>>> b=1.2
+>>> c=a+b
+>>> print(a,type(a))--------------100 <class 'int'>
+>>> print(b,type(b))--------------1.2 <class 'float'>
+>>> print(c,type(c))--------------101.2 <class 'float'>
+--------------------------------
+Examples Languages: PYTHON
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+        ===============================================
+				5. Interpreted Programming
+		===============================================
+=>When we develop any python program, we must give some file name with an extension .py (File Name.py).
+=>When we execute python program, two process taken place internally
+		a) Compilation Process
+		b) Execution Process.
+=>In COMPILATION PROCESS, The python Source Code submitted to Python Compiler and It reads the source Code, Check for errors by verifying syntaxes and if no errors found then Python Compiler Converts into Intermediate Code called BYTE CODE with an extension .pyc (FileName.pyc). If erros found in source code  then we get error displyed on the console.
+=>In EXECUTION PROCESS, The PVM reads the Python Intermediate Code(Byte Code) Line by Line and Converted into Machine Understable Code (Executable or binary Code) and It is read by OS and Processer and finally Gives Result.
+=>Hence In Python Program execution, Compilation Process and Execution Process is taking place Line by Line conversion and  It is one of the Interpretation Based Programming Language.
+--------------------------------------------------------------------
+Definition of PVM ( Python Virtual Machine )
+--------------------------------------------------------------------
+=>PVM is one program in Python Software and whose role is to read LINE by LINE of Byte Code and Converted into Machine Understable Code (Executable or binary Code) 
+-----------------------------------------------------------------------------------------------------------------
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            ================================================================
+					7. Freeware and Open Source
+			================================================================
+---------------------
+Freeware:
+---------------------
+=>If any Programming Language is Freely DownLoadable from Official Source(www.python.org  from PSF) then that language is called Freeware.
+Examples:   PYTHON, Java
+---------------------
+Open Source:
+---------------------
+=>The Standard Name of Python Software is "CPYTHON".
+=>Open Source is Nothing but making the Software to be available to all People.
+=>Once the Software is Open Source then Some Software Companies  came forward and Customized the Python Software for their In-House Tools Like Performance Evaluation, Quality of Testing, Releasing Process...etc.
+=>The Customized Softwares of Python are called "Python Distributions".
+=>Some of the Python Distributions are
+	
+			1. JPython  OR Jython----->Used for Running Java Based Applications.
+			2. IronPython OR Ipython--->Used for Ruuning C#.net Based Applications
+			3. Micro Python ---------------->Used for development of Micro Controller Applications.
+			4. Anaconda Python---------->Used for Developing Big Data OR Hadoop Based Applications
+			5. StackLess Python--------->used for developing  Concurrency Applications
+			...............etc
+=====================================================x==================================================
+            =======================================
+				6. High Level Programming 
+			=======================================
+=>In this context, we have two types of languages. They are
+
+			1. Low Level Programming Languages
+			2. High Level Programming Languages
+-----------------------------------------------------------------
+1. Low Level Programming Languages:
+-----------------------------------------------------------------
+=>In Low Programming Languages, data is always stored in the form low level values such as Binary data, Octal Data and Hexa Decimal data. These Number Systems are not directly understandable end-users .
+
+Example :    a=0b1010101010----Binary Data
+		     b=0xBEE--------------Hexa Decimal Data
+		     c=0o23-----------------Octal Data
+-----------------------------------------------------------------
+2. High Level Programming Languages
+-----------------------------------------------------------------
+=>In these languages, Internally, Even the programmer specifies the data in the form of Low Level Format such Binary data, Octal Data and Hexa Decimal data, automatically Python Programming Language Execution Environment Converts into High Level data, which is understandable by end-users .  Hence Python is one of the  High Level Programming Language.
+
+Examples:
+----------------
+>>> a=0b101010111110000
+>>> b=0b10101111000
+>>> print(a)-----------------------22000
+>>> print(b)----------------------1400
+>>> a=0xBEE
+>>> print(a)-----------------------3054
+>>> bin(22000)-----------------'0b101010111110000'
+>>> hex(3054)----------------'0xbee'
+======================================x===============================================================
+	
